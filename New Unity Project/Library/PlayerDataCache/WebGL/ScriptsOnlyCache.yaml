@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Lesson2_Operator
+    - Practice_Lesson2and3
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -38,23 +39,25 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11152}
+      Script: {instanceID: 11154}
     - Class: 114
-      Script: {instanceID: 11308}
+      Script: {instanceID: 11310}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 11350}
     - Class: 114
-      Script: {instanceID: 11730}
+      Script: {instanceID: 11732}
     - Class: 114
-      Script: {instanceID: 11820}
+      Script: {instanceID: 11822}
     - Class: 114
-      Script: {instanceID: 12108}
+      Script: {instanceID: 12110}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12296}
     - Class: 114
-      Script: {instanceID: 12582}
+      Script: {instanceID: 12498}
     - Class: 114
-      Script: {instanceID: 12932}
+      Script: {instanceID: 12588}
+    - Class: 114
+      Script: {instanceID: 12940}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -344,6 +347,12 @@ ScriptsOnlyBuild:
     className: TMP_FontAsset
   - hash:
       serializedVersion: 2
+      Hash: 28354a6e2f612bcb796913fb53afed7d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Lesson3_Method
+  - hash:
+      serializedVersion: 2
       Hash: e1300922cc039f41ab46a47f4cb05898
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -366,6 +375,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 68f0aae3a76f5a60fcf652a13cc8bf83
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Practice_Lesson2and3
   - hash:
       serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
@@ -450,6 +465,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: aed2b8aa5ac7989d7f8abe42b4e1d06f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Person
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
