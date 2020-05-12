@@ -43,5 +43,8 @@ public class Ship : MonoBehaviour
     private float _atk;
     public float atk { get { return _atk; } set { _atk = value * lv; } }
 
+    //使用快速完成的黏巴達
+    private float _def;
+    public float def { get => _def; set => _def = value*lv; }
 
 }
